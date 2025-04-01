@@ -65,7 +65,7 @@ weight = 30
 limit = 42
 
 [pagination]
-pagerSize = 16
+pagerSize = 15
 
 [outputs]
 # Generate RSS for home only.
