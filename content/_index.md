@@ -1,6 +1,8 @@
 ---
-title: "ᕦʕ •ᴥ•ʔᕤ"
+title: "我是ᕦʕ •ᴥ•ʔᕤ"
 ---
+
+Hello~
 
 Today's websites are bloated, slow, and full of scripts, ads, and trackers. This
 became so commonplace that we lost all sense of perspective, to the point that
