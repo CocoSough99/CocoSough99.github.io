@@ -26,4 +26,4 @@ optimization, so you can focus on writing good content.
 It is free, multilingual, optimized for search engines, no-nonsense, responsive,
 light, and fast. Really fast.
 
-Made with 💟 by [Shaolong Chen](https://github.com/maolonglong).
+Made with 💟 by Coco.

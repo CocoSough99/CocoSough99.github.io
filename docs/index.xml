@@ -6,15 +6,15 @@
     <description>Recent content on CocoSough99</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>shaolong.chen@outlook.it (Shaolong Chen)</managingEditor>
-    <webMaster>shaolong.chen@outlook.it (Shaolong Chen)</webMaster>
+    <managingEditor>99chyq@gmail.com (CocoSough)</managingEditor>
+    <webMaster>99chyq@gmail.com (CocoSough)</webMaster>
     <copyright>© 2025 CocoSough99</copyright>
     <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://CocoSough99.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Title title title</title>
       <link>https://CocoSough99.github.io/newpost/</link>
-      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate><author>99chyq@gmail.com (CocoSough)</author>
       <guid>https://CocoSough99.github.io/newpost/</guid>
       <description>&lt;p&gt;content content ababbabab&lt;/p&gt;
 &lt;p&gt;image &lt;img src=&#34;https://CocoSough99.github.io/images/favicon.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
@@ -27,7 +27,7 @@
     <item>
       <title>og-image</title>
       <link>https://CocoSough99.github.io/og-image/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate><author>99chyq@gmail.com (CocoSough)</author>
       <guid>https://CocoSough99.github.io/og-image/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo/blob/c46d603a027a715db604d39f7a2e68a157ef0001/docs/_vendor/github.com/gohugoio/gohugoioTheme/layouts/partials/opengraph/opengraph.html&#34;&gt;https://github.com/gohugoio/hugo/blob/c46d603a027a715db604d39f7a2e68a157ef0001/docs/_vendor/github.com/gohugoio/gohugoioTheme/layouts/partials/opengraph/opengraph.html&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
@@ -99,7 +99,7 @@
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://CocoSough99.github.io/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>99chyq@gmail.com (CocoSough)</author>
       <guid>https://CocoSough99.github.io/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
@@ -257,7 +257,7 @@
     <item>
       <title>Placeholder Text</title>
       <link>https://CocoSough99.github.io/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><author>99chyq@gmail.com (CocoSough)</author>
       <guid>https://CocoSough99.github.io/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Lorem est tota propiore conpellat pectoribus de pectora summo.</p>
@@ -287,7 +287,7 @@
     <item>
       <title>Math Typesetting</title>
       <link>https://CocoSough99.github.io/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><author>99chyq@gmail.com (CocoSough)</author>
       <guid>https://CocoSough99.github.io/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
@@ -322,7 +322,7 @@ $$</p>]]></content:encoded>
     <item>
       <title>Emoji Support</title>
       <link>https://CocoSough99.github.io/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><author>99chyq@gmail.com (CocoSough)</author>
       <guid>https://CocoSough99.github.io/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
@@ -346,10 +346,12 @@ $$</p>]]></content:encoded>
     <item>
       <title>About</title>
       <link>https://CocoSough99.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>99chyq@gmail.com (CocoSough)</author>
       <guid>https://CocoSough99.github.io/about/</guid>
-      <description>&lt;p&gt;this is me abababbab.&lt;/p&gt;</description>
+      <description>&lt;p&gt;this is me abababbab.&lt;/p&gt;
+&lt;p&gt;Coco&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>this is me abababbab.</p>
+<p>Coco</p>
 ]]></content:encoded>
     </item>
   </channel>
