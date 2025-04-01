@@ -4,6 +4,10 @@ title: "我是ᕦʕ •ᴥ•ʔᕤ"
 
 Hello~
 
+here's an image
+
+![test](/images/favicon.png)
+
 Today's websites are bloated, slow, and full of scripts, ads, and trackers. This
 became so commonplace that we lost all sense of perspective, to the point that
 we now think multi-megabyte webpages are normal.

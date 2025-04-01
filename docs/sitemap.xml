@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://CocoSough99.github.io/og-image/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://CocoSough99.github.io/blog/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://CocoSough99.github.io/blog/tag111/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://CocoSough99.github.io/blog/tag222/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://CocoSough99.github.io/newpost/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://CocoSough99.github.io/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://CocoSough99.github.io/og-image/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://CocoSough99.github.io/blog/css/</loc>
@@ -37,5 +46,7 @@
   </url><url>
     <loc>https://CocoSough99.github.io/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://CocoSough99.github.io/about/</loc>
   </url>
 </urlset>
