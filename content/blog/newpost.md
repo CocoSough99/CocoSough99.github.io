@@ -1,11 +1,10 @@
 +++
 author = "Me"
-title = "Title title title"
-date = "2025-03-09"
+title = "周记#1 - "
+date = "2025-04-01"
 description = "this is description"
 tags = [
-    "tag111",
-    "tag222",
+    "周记"
 ]
 +++
 

@@ -2,7 +2,7 @@
 baseURL = "https://CocoSough99.github.io/"
 theme = "hugo-simple"
 languageCode = "en"                # zh-Hans
-title = "CocoSough99"              # title of website
+title = "CocoSough's blog"              # title of website
 copyright = "© 2025 CocoSough99"
 
 publishDir = "docs"
@@ -35,7 +35,7 @@ noClasses = true
 style = "catppuccin-mocha"
 
 [params]
-title = "CocoSough99"  # 最好和上面的title一样
+title = "CocoSough's blog"  # 最好和上面的title一样
 description = "personal blog"  # 这个会显示在搜索引擎的页面，所以最好还是写一下，30~50个字就差不多
 favicon = "images/favicon.png"  # 网站图标，在标题旁边
 dateFormat = "2006-01-02"
@@ -45,7 +45,6 @@ hideRSSLink = false
 [params.author]
 name = "CocoSough"
 email = "99chyq@gmail.com"
-fediverse = "@chensl@mastodon.social"
 
 # 下面是顶部的菜单栏，按照weight升序排列
 [[menu.main]]
@@ -53,13 +52,17 @@ name = "Home"
 pageRef = "/"
 weight = 10
 [[menu.main]]
-name = "About"
-pageRef = "/about" # 点击之后跳转的链接，站内的网址可以写相对网址，站外用url
-weight = 20
-[[menu.main]]
 name = "Blog"
 pageRef = "/blog"
+weight = 20
+[[menu.main]]
+name = "Links"
+pageRef = "/link" # 点击之后跳转的链接，站内的网址可以写相对网址，站外用url
 weight = 30
+[[menu.main]]
+name = "Help"
+pageRef = "/help"
+weight = 35
 
 [services.rss]
 limit = 42
