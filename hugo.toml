@@ -59,10 +59,6 @@ weight = 20
 name = "Links"
 pageRef = "/link" # 点击之后跳转的链接，站内的网址可以写相对网址，站外用url
 weight = 30
-[[menu.main]]
-name = "Help"
-pageRef = "/help"
-weight = 35
 
 [services.rss]
 limit = 42

@@ -8,3 +8,4 @@ For now, I consider this blog my personal space, rather than a professional webs
 
 I write blog posts about life, love, travel, reflections, and maybe some research-related thoughts too.
 
+![image](/images/snoopy.jpg)
