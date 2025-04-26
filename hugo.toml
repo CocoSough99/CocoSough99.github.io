@@ -56,6 +56,10 @@ name = "Blog"
 pageRef = "/blog"
 weight = 20
 [[menu.main]]
+name = "Books"
+pageRef = "/book"
+weight = 25
+[[menu.main]]
 name = "Links"
 pageRef = "/link" # 点击之后跳转的链接，站内的网址可以写相对网址，站外用url
 weight = 30
